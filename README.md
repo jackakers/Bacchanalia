@@ -1,2 +1,2 @@
-# Bacchanalia-Game-Engine
+# Bacchanalia Game Engine
 A chaotic, hastily organized, yet functional game engine
